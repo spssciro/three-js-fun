@@ -1,0 +1,23 @@
+{
+  "name": "three-js-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spssciro/three-js-fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spssciro/three-js-fun/issues"
+  },
+  "homepage": "https://github.com/spssciro/three-js-fun#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "three-js": "^79.0.0"
+  }
+}
